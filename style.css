@@ -473,7 +473,8 @@ body.showbar-open {
   position: relative;
   top: 120px;
   left: 80px;
-  transition: 1s ease-in-out
+  transition: 1s ease-in-out;
+  Z-index: 600;
 }
 
 .hero .button:hover{
